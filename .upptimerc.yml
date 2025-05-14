@@ -19,8 +19,8 @@ status-website:
   cname: upptime.rtv-apeldoorn.nl
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: RTV Apeldoorn servivces
-  introTitle: "Uptime RTV Apeldoorn servivces"
+  name: RTV Apeldoorn services
+  introTitle: "Uptime RTV Apeldoorn services"
   introMessage: Deze pagina geeft de actuele status van onze diensten weer.
   navbar:
     - title: Status

@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Website RTV Apeldoorn
     url: https://www.rtv-apeldoorn.nl
-  - name: Streaming RTV Apeldoorn
+  - name: Streaming Radio RTV Apeldoorn
     url: https://streamingradio.rtv-apeldoorn.nl/login
+  - name: YouTube kanaal RTV Apeldoorn
+    url: https://www.youtube.com/@rtvapeldoorn/videos
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80

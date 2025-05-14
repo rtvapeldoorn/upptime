@@ -10,7 +10,7 @@ sites:
   - name: YouTube kanaal RTV Apeldoorn
     url: https://www.youtube.com/@rtvapeldoorn/videos
   - name: RTV Apeldoorn Ticketsysteem
-    url: https://storing.rtv-apeldoorn.nl/
+    url: https://storing.rtv-apeldoorn.nl
   - name: RTV Apeldoorn locatiestream
     url: http://95.97.176.18:4000/status.xsl
 #  - name: IPv6 test

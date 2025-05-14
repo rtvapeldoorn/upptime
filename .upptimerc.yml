@@ -9,6 +9,8 @@ sites:
     url: https://streamingradio.rtv-apeldoorn.nl/login
   - name: YouTube kanaal RTV Apeldoorn
     url: https://www.youtube.com/@rtvapeldoorn/videos
+  - name: RTV Apeldoorn locatiestream
+    url: http://95.97.176.18:4000/status.xsl
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80

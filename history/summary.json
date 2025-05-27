@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rtv-apeldoorn.nl.ico",
     "slug": "website-rtv-apeldoorn",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2009,
-    "timeDay": 2120,
-    "timeWeek": 2327,
-    "timeMonth": 2009,
-    "timeYear": 2009,
+    "uptime": "99.76%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1961,
+    "timeDay": 1697,
+    "timeWeek": 2140,
+    "timeMonth": 1961,
+    "timeYear": 1961,
     "dailyMinutesDown": {
-      "2025-05-27": 0
+      "2025-05-27": 47
     }
   },
   {

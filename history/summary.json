@@ -6,7 +6,7 @@
     "slug": "website-rtv-apeldoorn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2327,
     "timeMonth": 2009,
     "timeYear": 2009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   },
   {
     "name": "Streaming Radio RTV Apeldoorn",

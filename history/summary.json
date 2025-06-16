@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rtv-apeldoorn.nl.ico",
     "slug": "website-rtv-apeldoorn",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 1998,
     "timeDay": 1956,
     "timeWeek": 2138,
@@ -29,9 +29,9 @@
     "url": "https://streamingradio.rtv-apeldoorn.nl/login",
     "icon": "https://icons.duckduckgo.com/ip3/streamingradio.rtv-apeldoorn.nl.ico",
     "slug": "streaming-radio-rtv-apeldoorn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,7 +40,9 @@
     "timeWeek": 794,
     "timeMonth": 905,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-16": 0
+    }
   },
   {
     "name": "YouTube kanaal RTV Apeldoorn",

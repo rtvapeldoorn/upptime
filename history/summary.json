@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rtv-apeldoorn.nl.ico",
     "slug": "website-rtv-apeldoorn",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 1983,
     "timeDay": 1310,
     "timeWeek": 1681,
@@ -29,10 +29,10 @@
     "url": "https://streamingradio.rtv-apeldoorn.nl/login",
     "icon": "https://icons.duckduckgo.com/ip3/streamingradio.rtv-apeldoorn.nl.ico",
     "slug": "streaming-radio-rtv-apeldoorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 907,
@@ -41,6 +41,7 @@
     "timeMonth": 906,
     "timeYear": 907,
     "dailyMinutesDown": {
+      "2025-06-20": 0,
       "2025-06-16": 20
     }
   },
@@ -67,7 +68,7 @@
     "url": "https://storing.rtv-apeldoorn.nl",
     "icon": "https://icons.duckduckgo.com/ip3/storing.rtv-apeldoorn.nl.ico",
     "slug": "rtv-apeldoorn-ticketsysteem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -78,7 +79,9 @@
     "timeWeek": 1270,
     "timeMonth": 1300,
     "timeYear": 1293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "RTV Apeldoorn locatiestream",

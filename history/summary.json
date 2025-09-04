@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/streamingradio.rtv-apeldoorn.nl.ico",
     "slug": "streaming-radio-rtv-apeldoorn",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 910,
     "timeDay": 794,
     "timeWeek": 841,
@@ -76,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/storing.rtv-apeldoorn.nl.ico",
     "slug": "rtv-apeldoorn-ticketsysteem",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.68%",
     "time": 1213,
     "timeDay": 1097,
     "timeWeek": 896,
@@ -99,9 +99,9 @@
     "url": "http://95.97.176.18:4000/status.xsl",
     "icon": "https://icons.duckduckgo.com/ip3/95.97.176.18.ico",
     "slug": "rtv-apeldoorn-locatiestream",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,6 +110,8 @@
     "timeWeek": 235,
     "timeMonth": 251,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-04": 0
+    }
   }
 ]

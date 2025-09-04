@@ -99,19 +99,19 @@
     "url": "http://95.97.176.18:4000/status.xsl",
     "icon": "https://icons.duckduckgo.com/ip3/95.97.176.18.ico",
     "slug": "rtv-apeldoorn-locatiestream",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 242,
-    "timeWeek": 235,
-    "timeMonth": 251,
-    "timeYear": 255,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 256,
+    "timeDay": 289,
+    "timeWeek": 247,
+    "timeMonth": 253,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-09-04": 0
+      "2025-09-04": 20
     }
   }
 ]

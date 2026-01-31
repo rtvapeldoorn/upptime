@@ -1,7 +1,7 @@
 url: http://95.97.176.18:4000/status.xsl
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2026-01-30T23:16:51.745Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-01-31T11:45:35.951Z
 startTime: 2025-05-14T19:47:52.947Z
 generator: Upptime <https://github.com/upptime/upptime>

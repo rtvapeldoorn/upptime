@@ -1,7 +1,7 @@
 url: https://www.rtv-apeldoorn.nl
-status: up
-code: 200
-responseTime: 2312
-lastUpdated: 2026-03-10T23:18:14.721Z
+status: down
+code: 503
+responseTime: 704
+lastUpdated: 2026-03-11T13:48:34.592Z
 startTime: 2025-05-13T19:56:03.015Z
 generator: Upptime <https://github.com/upptime/upptime>

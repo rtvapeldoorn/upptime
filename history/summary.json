@@ -38,16 +38,16 @@
     "url": "https://streamingradio.rtv-apeldoorn.nl/login",
     "icon": "https://icons.duckduckgo.com/ip3/streamingradio.rtv-apeldoorn.nl.ico",
     "slug": "streaming-radio-rtv-apeldoorn",
-    "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "78.99%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "98.23%",
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "80.16%",
+    "uptimeWeek": "76.16%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "98.17%",
     "time": 959,
-    "timeDay": 1024,
-    "timeWeek": 1080,
-    "timeMonth": 1026,
+    "timeDay": 985,
+    "timeWeek": 1063,
+    "timeMonth": 1024,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2025-11-01": 286,
@@ -65,7 +65,7 @@
       "2026-10-13": 490,
       "2026-10-22": 1419,
       "2026-10-21": 698,
-      "2026-10-25": 0
+      "2026-10-25": 286
     }
   },
   {
